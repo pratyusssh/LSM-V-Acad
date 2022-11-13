@@ -65,6 +65,7 @@
 width: 20vw;
 /* height: 32%; */
 /* text-align: center; */
+/* displayflex */
 display: flex;
 flex-direction: column;
 justify-content: space-around;
