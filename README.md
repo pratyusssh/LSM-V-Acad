@@ -1,3 +1,14 @@
+<h1>V-academics</h1>
+<h5>The project aims to create a website that will contain resources for any course which VIT offers under the BTECH CSE CORE program .Resources include course curriculam overview, course syllabus ,youtube playlists best suitable for that particular course ,course book pdfs as well as class ppts.
+Our website also provides students with class recordings of core subjects , github links to refer various projects for the j-component of that course and at last a list of recent research papers which can be referred for project reviews.
+The Website also has an additional feature of chat application which can be utilized by the students to create chat rooms and have discussions..</h5>
+<ul>
+<li>Link for this website : https://v-acad1010.web.app/
+<li>Link for Vchat : https://v-testnet1010.web.app/
+<li>Vchat is a functionality of Vacademics contributed by : https://github.com/BiswajeetRaut 
+<li>Github link for the Vchat : https://github.com/BiswajeetRaut/V-chat
+</ul>
+<h5>This repository contains code for Vacademics only<h5>
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
