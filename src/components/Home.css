@@ -1,0 +1,21 @@
+.container{
+    /* background: url('./images/fire-bck\(2\).jpg'); */
+    /* background: url('./images/back-video.mp4'); */
+    background: url("./images/home-background.png");
+    /* position: absolute; */
+    /* top: 0; */
+    /* z-index:100; */
+    height: 100vh;
+    width: 100%;
+     background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+
+}
+@media (max-width:770px) {
+    .container{
+        overflow-x:hidden;
+        overflow-y: visible;
+    }
+    
+}
